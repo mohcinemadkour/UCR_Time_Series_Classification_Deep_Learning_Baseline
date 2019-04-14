@@ -159,7 +159,7 @@ Neural Networks: A Strong Baseline**] (https://arxiv.org/abs/1611.06455)
 ## License
 This project is licensed under the MIT License.
 
-MIT License
+MIT License:
 
 Copyright (c) [2019] [Zhiguang Wang]
 
